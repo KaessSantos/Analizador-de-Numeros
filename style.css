@@ -21,3 +21,24 @@ section{
 select#flista{
     width: 150px;
 }
+
+@media screen and (max-width:570px) {
+    header{
+        display: none;
+    }
+
+    section{
+        width: 200px;
+        margin-top: 50px;
+
+    }
+
+    #txtn{
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    #flista{
+        margin-bottom: 5px;
+    }
+}
