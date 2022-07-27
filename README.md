@@ -1,4 +1,4 @@
 # Analizador-de-Numeros
- Fiz esse projeto com html, css é javaScript
+ Projeto para treinar JavaScript
 
 <a href="https://kaesssantos.github.io/Analizador-de-Numeros/"> Projeto
